@@ -15,7 +15,7 @@ import random
 2、再使用conf.iface=''绑定相应的网卡
 3、linux需要在sniff()中指定相应的网卡
 
-'''
+''' 
 conf.iface='Intel(R) Dual Band Wireless-AC 8260'
 
 #随机ip字段的id和ttl
